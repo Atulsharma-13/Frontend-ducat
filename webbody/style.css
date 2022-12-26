@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+}
+.header {
+  width: 100vw;
+  height: 20vh;
+  background-color: orangered;
+}
+.headerlogo {
+  width: 40vw;
+  height: 10vh;
+  background-color: antiquewhite;
+}
+.headerbanner {
+  width: 60vw;
+  height: 10vh;
+  background-color: brown;
+  position: absolute;
+  left: 40vw;
+  top: 0;
+}
+.headerbar {
+  width: 100vw;
+  height: 10vh;
+  background-color: blueviolet;
+}
+.main {
+  width: 100vw;
+  height: 60vh;
+  background-color: chartreuse;
+}
+.leftblock {
+  width: 20vw;
+  height: 60vh;
+  background-color: gray;
+}
+.centerblock {
+  width: 60vw;
+  height: 60vh;
+  background-color: darkblue;
+  position: absolute;
+  left: 20vw;
+  top: 20vh;
+}
+.centertop {
+  width: 60vw;
+  height: 15vh;
+  background-color: coral;
+}
+.centermiddle {
+  width: 30vw;
+  height: 30vh;
+  background-color: darkolivegreen;
+}
+.centermiddle2 {
+  width: 30vw;
+  height: 30vh;
+  background-color: greenyellow;
+  position: absolute;
+  left: 30vw;
+  top: 15vh;
+}
+.centerbottom {
+  width: 60vw;
+  height: 15vh;
+  background-color: darkred;
+}
+.rightblock {
+  width: 20vw;
+  height: 60vh;
+  background-color: cyan;
+  position: absolute;
+  right: 0vw;
+  top: 20vh;
+}
+.footer {
+  width: 100vw;
+  height: 20vh;
+  background-color: rgb(237, 100, 148);
+}

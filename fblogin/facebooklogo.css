@@ -1,0 +1,125 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: whitesmoke;
+}
+.mainlogo {
+  width: 30vw;
+  height: 50vh;
+  /* background-color: aqua; */
+  position: relative;
+  left: 20vw;
+  top: 20vh;
+}
+.firstmain {
+  width: 30vw;
+  height: 25vh;
+  /* background-color: burlywood; */
+}
+.secondmain {
+  width: 30vw;
+  height: 25vh;
+  /* background-color: brown; */
+}
+img {
+  width: 30vw;
+  height: 25vh;
+  position: relative;
+  top: 6vh;
+  left: -3vw;
+}
+.login {
+  width: 35vw;
+  height: 50vh;
+  background-color: white;
+  position: relative;
+  left: 50vw;
+  top: -30vh;
+}
+.inputtype1 {
+  width: 35vw;
+  height: 10vh;
+  /* background-color: chartreuse; */
+}
+input {
+  width: 30vw;
+  height: 6vh;
+  font-size: 1.5em;
+  position: relative;
+  left: 2vw;
+  top: 4vh;
+  padding: 1em;
+}
+.password {
+  width: 30vw;
+  height: 6vh;
+  font-size: 1.5em;
+  position: relative;
+  left: 2vw;
+  top: 1vh;
+  padding: 1em;
+}
+.inputtype2 {
+  width: 35vw;
+  height: 10vh;
+  /* background-color: darkblue; */
+}
+
+.inputtype3 {
+  width: 35vw;
+  height: 10vh;
+  /* background-color: cornflowerblue; */
+}
+.btn {
+  width: 30vw;
+  height: 6vh;
+  font-size: 1.5em;
+  position: relative;
+  left: 2vw;
+  top: -2vh;
+  padding: 0em;
+  background-color: blue;
+  color: white;
+}
+.paragraph {
+  width: 35vw;
+  height: 5vh;
+  /* background-color: blanchedalmond; */
+}
+.heading {
+  position: relative;
+  top: -4.5vh;
+  left: 10vw;
+}
+.line {
+  width: 35vw;
+  height: 5vh;
+  /* background-color: crimson; */
+}
+hr {
+  position: relative;
+  height: 0;
+  /* background-color: black; */
+  top: -3vh;
+}
+.inputtype4 {
+  width: 35vw;
+  height: 10vh;
+  /* background-color: darkgrey; */
+}
+.btnn {
+  position: relative;
+  width: 14vw;
+  height: 4vh;
+  font-size: 1em;
+  font-weight: bolder;
+  left: 9vw;
+  top: -4vh;
+  background-color: green;
+  color: white;
+}
